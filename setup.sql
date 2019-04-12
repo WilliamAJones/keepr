@@ -1,3 +1,5 @@
+-- USE wjkeepr;
+
 -- CREATE TABLE users (
 --     id VARCHAR(255) NOT NULL,
 --     username VARCHAR(20) NOT NULL,
